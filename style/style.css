@@ -1,4 +1,3 @@
-
 body {
     font-size: 100%;
     margin: 1rem;
@@ -20,6 +19,10 @@ header {
     align-items: center;
 }
 
+nav{
+    align-self: safe center; 
+    align-self: unsafe center;
+}
 header div{
     flex: 1;
 }
@@ -58,7 +61,7 @@ img {
 }
 
 figure {
-    border: .25rem solid purple;
+    border: .25rem solid rgb(238, 84, 84);
 }
 
 figcaption{
@@ -87,13 +90,23 @@ figcaption{
         flex: 1;
     }
     figure{
-        border: 1.2rem solid purple;
+        border: 1.2rem solid rgb(238, 84, 84);
         width: 50%;
         float: right;
     }
+   
+}
 
-    footer{
-        clear: both;
-        background-color:palegoldenrod;
-    }
+#main-content {
+        display: flex;
+        align-content: center;
+        flex-direction: row;
+        align-self: auto; 
+        align-self: normal; 
+        border: 3px solid rgba(0, 0, 0, 0.445);
+}
+
+footer{
+    clear: both;
+    background-color:palegoldenrod;
 }
