@@ -1,8 +1,8 @@
 body{
     background-color: linen;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Inconsolata', monospace;
 }
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 table {
     border-collapse: collapse;

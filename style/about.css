@@ -7,7 +7,6 @@ body{
     align-self: auto;
     font-size: 100%;
     padding: 7%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Audiowide', cursive;
 }
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
