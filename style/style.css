@@ -57,6 +57,11 @@ figcaption{
     text-align: center;
 }
 
+#side{
+    padding: 2%;
+    text-align: 100%;
+}
+
 @media(print){
     * {
         background-color: white;
