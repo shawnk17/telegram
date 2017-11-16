@@ -12,4 +12,11 @@ th, td {
     padding: 8px;
 }
 
-tr:nth-child(even) {background-color: #d1c3c3;}
+tr:nth-child(even) {
+    background-color: #d1c3c3;
+}
+
+footer{
+    clear: both;
+    background-color:palegoldenrod;
+}
