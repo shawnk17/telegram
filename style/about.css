@@ -1,0 +1,10 @@
+body{
+    /* background-color: whitesmoke; */
+    background-color: transparent;
+    background-image: url('../pic/certificate-border-17.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-self: auto;
+    font-size: 100%;
+    padding: 7%;
+}
