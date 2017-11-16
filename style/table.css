@@ -1,6 +1,8 @@
 body{
     background-color: linen;
+    font-family: 'Open Sans', sans-serif;
 }
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 table {
     border-collapse: collapse;
